@@ -1,4 +1,5 @@
 # OpenLLMnews
 Papers, Blogs, repos and so on collections.
 
-https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
+### Training Tutorial
+https://github.com/semon2019/OpenLLMnews/tree/main/Training
